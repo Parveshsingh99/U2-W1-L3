@@ -1,0 +1,24 @@
+.container {
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cardText {}
+
+img {
+    width: 420px;
+    height: 350px;
+    border-top-right-radius: 35%;
+    border-top-left-radius: 35%;
+}
+
+.cardText {
+    color: rgb(209, 113, 35);
+}

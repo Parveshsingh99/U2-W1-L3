@@ -1,0 +1,24 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+
+nav ul {
+    list-style-type: none;
+    
+}
+
+li {
+    background-color: goldenrod;
+    border-radius: 20px;
+    height: 20px;
+    
+}
+
+.container {
+    background-color: bisque;
+    border-radius: 60px;
+    height: 100px;
+}
